@@ -47,7 +47,7 @@ The site works well on different screen sizes - I tested it on mobile (320px), t
 You can run this project locally in a few ways:
 
 **Easy way:**
-1. Download or clone this repo
+1. Download or clone this via repo (https://github.com/sliptfrogs/Royal-group-micro-insurance-clone.git)
 2. Just double-click the `index.html` file
 3. It should open in your browser
 
