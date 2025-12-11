@@ -1,8 +1,8 @@
-# RGI Insurance Website - [Your Name]
+# RGI Insurance Website - Yoeurn Kimsan
 
 A responsive website for Royal Group Micro Insurance built with HTML and CSS.
 
-**Live Demo:** https://yourusername.github.io/rgi-insurance
+**Live Demo:** https://sliptfrogs.github.io/Royal-group-micro-insurance-clone/
 
 ## Screenshots
 
